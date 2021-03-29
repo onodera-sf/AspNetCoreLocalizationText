@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Description>ASP.NET Core MVC で多言語切り替え表示を扱うためのサンプルです。</Description>
+    <Company>ソーサリーフォース (https://sorceryforce.net/)</Company>
+    <Authors>おのでら (ソーサリーフォース)</Authors>
+    <Copyright>Copyright (C) 2020 おのでら</Copyright>
+  </PropertyGroup>
+
+
+
+</Project>

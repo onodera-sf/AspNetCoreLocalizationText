@@ -1,0 +1,6 @@
+﻿@using LocalizationText
+@using LocalizationText.Models
+@using Microsoft.AspNetCore.Mvc.Localization
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@* ビュー側でローカライザーを使用できるように定義します *@
+@inject IHtmlLocalizer<SharedResource> Localizer
